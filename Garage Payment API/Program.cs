@@ -36,12 +36,7 @@ namespace Garage_Payment_API
             //}
 
             app.UseSwagger();
-            //app.UseSwaggerUI();
-            app.UseSwaggerUI(c =>
-            {
-                c.SwaggerEndpoint("/swagger/v1/swagger.json", "My API v1");
-                c.RoutePrefix = string.Empty; // Make Swagger accessible at the root of the API
-            });
+            app.UseSwaggerUI();
 
             app.UseAuthorization();
 
