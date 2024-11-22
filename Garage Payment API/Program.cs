@@ -30,13 +30,16 @@ namespace Garage_Payment_API
 
             // Configure the HTTP request pipeline.
 
-            //if (app.Environment.IsDevelopment())
-            //{
-
-            //}
-
-            app.UseSwagger();
-            app.UseSwaggerUI();
+            if (app.Environment.IsDevelopment() || app.Environment.IsProduction())
+            {
+                app.UseSwagger();
+                //app.UseSwaggerUI();
+                app.UseSwaggerUI(options =>
+                {
+                    options.SwaggerEndpoint("/swagger/v1/swagger.json", "Garage Payment API V1");
+                    options.RoutePrefix = string.Empty; // Makes Swagger UI available at the root URL
+                });
+            }
 
             app.UseAuthorization();
 
