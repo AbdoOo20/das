@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Garage Payment API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a13b351a1203202d13c54ae80efcae1c1ccd2c2")]
 [assembly: System.Reflection.AssemblyProductAttribute("Garage Payment API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Garage Payment API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -33,16 +33,15 @@ namespace Garage_Payment_API
             if (app.Environment.IsDevelopment() || app.Environment.IsProduction())
             {
                 app.UseSwagger();
-                app.UseSwaggerUI();
-                //app.UseSwaggerUI(options =>
-                //{
-                //    options.SwaggerEndpoint("/swagger/v1/swagger.json", "Garage Payment API V1");
-                //    options.RoutePrefix = string.Empty; // Makes Swagger UI available at the root URL
-                //});
+                app.UseSwaggerUI(options =>
+                {
+                    options.SwaggerEndpoint("/swagger/v1/swagger.json", "Garage Payment API V1");
+                    
+                });
             }
 
-            app.UseSwagger();
-            app.UseSwaggerUI();
+            //app.UseSwagger();
+            //app.UseSwaggerUI();
 
             app.UseAuthorization();
 

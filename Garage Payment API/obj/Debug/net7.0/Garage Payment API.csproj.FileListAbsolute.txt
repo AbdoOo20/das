@@ -47,3 +47,4 @@ D:\ASP.NET\Work Projects\Garage Payment API\Garage Payment API\obj\Debug\net7.0\
 D:\ASP.NET\Work Projects\Garage Payment API\Garage Payment API\obj\Debug\net7.0\Garage Payment API.pdb
 D:\ASP.NET\Work Projects\Garage Payment API\Garage Payment API\obj\Debug\net7.0\Garage Payment API.genruntimeconfig.cache
 D:\ASP.NET\Work Projects\Garage Payment API\Garage Payment API\obj\Debug\net7.0\ref\Garage Payment API.dll
+D:\ASP.NET\Work Projects\Garage Payment API\Garage Payment API\obj\Debug\net7.0\Garage Payment API.sourcelink.json
