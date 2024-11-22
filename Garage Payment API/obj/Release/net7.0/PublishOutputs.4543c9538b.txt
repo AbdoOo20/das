@@ -1,0 +1,24 @@
+D:\ASP.NET\Work Projects\Garage Payment API\publish\Garage Payment API.exe
+D:\ASP.NET\Work Projects\Garage Payment API\publish\appsettings.Development.json
+D:\ASP.NET\Work Projects\Garage Payment API\publish\appsettings.json
+D:\ASP.NET\Work Projects\Garage Payment API\publish\Garage Payment API.dll
+D:\ASP.NET\Work Projects\Garage Payment API\publish\Garage Payment API.deps.json
+D:\ASP.NET\Work Projects\Garage Payment API\publish\Garage Payment API.runtimeconfig.json
+D:\ASP.NET\Work Projects\Garage Payment API\publish\Garage Payment API.pdb
+D:\ASP.NET\Work Projects\Garage Payment API\publish\Microsoft.AspNetCore.OpenApi.dll
+D:\ASP.NET\Work Projects\Garage Payment API\publish\Microsoft.OpenApi.dll
+D:\ASP.NET\Work Projects\Garage Payment API\publish\Microsoft.Win32.SystemEvents.dll
+D:\ASP.NET\Work Projects\Garage Payment API\publish\Newtonsoft.Json.dll
+D:\ASP.NET\Work Projects\Garage Payment API\publish\Stripe.net.dll
+D:\ASP.NET\Work Projects\Garage Payment API\publish\Swashbuckle.AspNetCore.Swagger.dll
+D:\ASP.NET\Work Projects\Garage Payment API\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ASP.NET\Work Projects\Garage Payment API\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ASP.NET\Work Projects\Garage Payment API\publish\System.Configuration.ConfigurationManager.dll
+D:\ASP.NET\Work Projects\Garage Payment API\publish\System.Drawing.Common.dll
+D:\ASP.NET\Work Projects\Garage Payment API\publish\System.Security.Cryptography.ProtectedData.dll
+D:\ASP.NET\Work Projects\Garage Payment API\publish\System.Security.Permissions.dll
+D:\ASP.NET\Work Projects\Garage Payment API\publish\System.Windows.Extensions.dll
+D:\ASP.NET\Work Projects\Garage Payment API\publish\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\ASP.NET\Work Projects\Garage Payment API\publish\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+D:\ASP.NET\Work Projects\Garage Payment API\publish\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\ASP.NET\Work Projects\Garage Payment API\publish\runtimes\win\lib\net7.0\System.Windows.Extensions.dll

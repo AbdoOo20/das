@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Garage Payment API.props" />
+</Project>

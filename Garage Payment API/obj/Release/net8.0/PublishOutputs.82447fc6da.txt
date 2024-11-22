@@ -1,0 +1,16 @@
+D:\ASP.NET\Work Projects\Garage Payment API\Garage Payment API\obj\Release\net8.0\PubTmp\Out\Garage Payment API.exe
+D:\ASP.NET\Work Projects\Garage Payment API\Garage Payment API\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+D:\ASP.NET\Work Projects\Garage Payment API\Garage Payment API\obj\Release\net8.0\PubTmp\Out\appsettings.json
+D:\ASP.NET\Work Projects\Garage Payment API\Garage Payment API\obj\Release\net8.0\PubTmp\Out\Garage Payment API.dll
+D:\ASP.NET\Work Projects\Garage Payment API\Garage Payment API\obj\Release\net8.0\PubTmp\Out\Garage Payment API.deps.json
+D:\ASP.NET\Work Projects\Garage Payment API\Garage Payment API\obj\Release\net8.0\PubTmp\Out\Garage Payment API.runtimeconfig.json
+D:\ASP.NET\Work Projects\Garage Payment API\Garage Payment API\obj\Release\net8.0\PubTmp\Out\Garage Payment API.pdb
+D:\ASP.NET\Work Projects\Garage Payment API\Garage Payment API\obj\Release\net8.0\PubTmp\Out\Microsoft.AspNetCore.OpenApi.dll
+D:\ASP.NET\Work Projects\Garage Payment API\Garage Payment API\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\ASP.NET\Work Projects\Garage Payment API\Garage Payment API\obj\Release\net8.0\PubTmp\Out\Newtonsoft.Json.dll
+D:\ASP.NET\Work Projects\Garage Payment API\Garage Payment API\obj\Release\net8.0\PubTmp\Out\Stripe.net.dll
+D:\ASP.NET\Work Projects\Garage Payment API\Garage Payment API\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\ASP.NET\Work Projects\Garage Payment API\Garage Payment API\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ASP.NET\Work Projects\Garage Payment API\Garage Payment API\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ASP.NET\Work Projects\Garage Payment API\Garage Payment API\obj\Release\net8.0\PubTmp\Out\System.Configuration.ConfigurationManager.dll
+D:\ASP.NET\Work Projects\Garage Payment API\Garage Payment API\obj\Release\net8.0\PubTmp\Out\System.Security.Cryptography.ProtectedData.dll
